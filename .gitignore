@@ -1,0 +1,5 @@
+env
+*.png
+*.log
+*.ini
+__pycache__
